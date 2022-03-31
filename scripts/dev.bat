@@ -1,0 +1,1 @@
+@nodemon --exec python src\index.py
